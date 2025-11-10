@@ -17,4 +17,4 @@ Create a news article card with:
 
 ---
 **Output:**
-![Nigerian News Card]()
+![Nigerian News Card](https://github.com/user-attachments/assets/e2e981e3-cff1-4620-850d-d25672bdd363)
