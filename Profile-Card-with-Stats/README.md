@@ -15,4 +15,4 @@ Create a user profile card with:
 - Use shadow for depth
 
 ---
-![Profile Card with Stats]()
+![Profile Card with Stats](https://github.com/user-attachments/assets/56941f1c-69a6-4db9-937f-c1c1d065337e)
