@@ -12,4 +12,6 @@ Build a fully responsive navbar with:
 ---
 
 **Output:**
-![Responsive NavBar]()
+![Responsive NavBar](https://github.com/user-attachments/assets/18c24891-0607-42de-b40a-405100d8a6fd)
+
+![With Harmburger](https://github.com/user-attachments/assets/abbfaf72-85c2-4ef5-957e-47e6eb3c4938)
