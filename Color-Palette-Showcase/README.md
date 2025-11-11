@@ -15,4 +15,4 @@ Create a component that displays:
 ---
 
 **Output:**
-![Color Palette ShowCase]()
+![Color Palette ShowCase](https://github.com/user-attachments/assets/34b6ff1c-8c3b-4157-9f46-67892892c1b7)
