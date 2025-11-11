@@ -8,7 +8,8 @@ function ProfileCard() {
       <div className="flex justify-center -mt-10">
         <img
           src="https://res.cloudinary.com/dbadkovof/image/upload/v1762809833/otp_yy8ike.jpg"
-          className="w-20 h-20 rounded-full bg-gray-300 border-4 border-white object-cover"
+          className="w-20 h-20 rounded-full bg-gray-300 border-4 border-white object-cover
+          "
         />
       </div>
 
