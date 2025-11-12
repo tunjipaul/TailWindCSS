@@ -12,6 +12,11 @@ Create a blog post layout with:
 
 ---
 
-**Output::**
+**Desktop View Output::**
 
-![Blog Post Layout Output]()
+![Blog Post Layout Output](https://github.com/user-attachments/assets/f7ce7f90-6b50-4f73-a6c9-8b4531e61640)
+
+
+**Mobile View Output::**
+
+![Blog Post Layout](https://github.com/user-attachments/assets/41b0aca7-f99d-4e41-a152-b97d0cbc28c8)
