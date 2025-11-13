@@ -27,3 +27,5 @@
 **Mobile View:**
 
 ![E-Commerce HomePage Mobile View](https://github.com/user-attachments/assets/17cd0f73-4d7c-44ee-93ce-4e2db3aebeee)
+
+Deployed on Vercel: https://tail-wind-css-teal.vercel.app/
