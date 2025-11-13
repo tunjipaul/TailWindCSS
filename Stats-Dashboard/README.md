@@ -19,4 +19,4 @@ Revenue: ₦4.2M (+15% ↑)
 ---
 **Output:**
 
-![Stats Dashboard]()
+![Stats Dashboard](https://github.com/user-attachments/assets/bf982f3b-3198-4183-9f0d-64de0d869657)
