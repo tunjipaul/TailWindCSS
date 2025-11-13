@@ -17,3 +17,6 @@ Revenue: ₦4.2M (+15% ↑)
 ```
 
 ---
+**Output:**
+
+![Stats Dashboard]()
