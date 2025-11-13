@@ -16,4 +16,14 @@
 
 **Output:**
 
-![E-Commerce HomePage]()
+**Desktop View:**
+![E-Commerce HomePage Desktop View](https://github.com/user-attachments/assets/ccfa4516-2a06-4a30-bbba-285583802aec)
+
+**Tab View:**
+
+![E-Commerce HomePage Tab View](https://github.com/user-attachments/assets/1e761944-d6f7-44e4-af63-9f02a67ebfbb)
+
+
+**Mobile View:**
+
+![E-Commerce HomePage Mobile View](https://github.com/user-attachments/assets/17cd0f73-4d7c-44ee-93ce-4e2db3aebeee)
